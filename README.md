@@ -6,7 +6,7 @@ Olá! Eu sou um desenvolvedor web apaixonado por tecnologia e inovação, com 12
 
 Sou proficientemente em diversas tecnologias e ferramentas, incluindo:
 
-- **Linguagens & Frameworks**:&#x20;
+- **Linguagens & Frameworks**:PHP, Javascript, Typescript, Laravel, Nuxtjs, Vuejs;
 - **Banco de Dados**: PostgreSQL, MySQL
 - **Estilização**: TailwindCSS, Vuetify, Nuxt UI
 - **Desenvolvimento Mobile**: Flutter, Flutter Flow
